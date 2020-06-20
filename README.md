@@ -1,3 +1,9 @@
-# ender-5-pro-marlin-configs
+# Marlin 3D Printer Firmware
 
-My Ender 5 Pro Marlin Configuration Files
+https://github.com/MarlinFirmware/Marlin
+
+# Personal Configs
+
+These are the configuration files I am using on my Ender 5 Pro
+
+Feel free to use/fork as needed or to contribute back if this was helpful
